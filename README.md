@@ -11,7 +11,7 @@
 
 ## 用法
 
-打开`data.js`
+打开`data.js`配置数据
 
 打开后是这样的：
 
@@ -34,3 +34,6 @@ function getData() {
 其中data为JSON数组，你可以将里面的{name: ' '}修改成抽取的姓名
 
 name字段是必须的
+
+#### 配置完数据后，双击运行`index.html`即可
+注意，index.html和data.js需要在同一目录下！
